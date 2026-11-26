@@ -1,0 +1,17 @@
+{
+  "title": "PREPRINT",
+  "description": "<p>PREPRINT DOI by Zenodo.</p>",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "creators": [
+    {
+      "name": "Febriyansyah",
+      "affiliation": ""
+    }
+  ],
+  "keywords": ["preprint", "DOI", "Zenodo"],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "version": "1.0.0",
+  "language": "eng"
+}

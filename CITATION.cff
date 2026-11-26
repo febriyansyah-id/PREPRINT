@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "PREPRINT"
+type: software
+version: 1.0.0
+date-released: 2026-11-26
+authors:
+  - family-names: "Febriyansyah"
+    given-names: ""
+repository-code: "https://github.com/febriyansyah-id/PREPRINT"
+license: CC-BY-4.0
+keywords:
+  - preprint
+  - DOI
+  - Zenodo
