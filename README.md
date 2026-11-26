@@ -34,7 +34,7 @@ A curated collection of preprints by **Febriyansyah**, each archived on Zenodo w
 ### 1. Accuracy–Efficiency Trade-off of ResNet18 and MobileNetV4
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24553437-1682D4.svg)](https://doi.org/10.5281/zenodo.24553437)
-· [PDF](./papers/Accuracy-Efficiency_Trade-off_ResNet18_MobileNetV4_Malimg.pdf)
+· [PDF](./docs/papers/Accuracy-Efficiency_Trade-off_ResNet18_MobileNetV4_Malimg.pdf)
 · [Zenodo record](https://zenodo.org/records/24553437)
 
 <details>
@@ -80,7 +80,7 @@ Image-based malware classification on the Malimg dataset commonly reports accura
 ### 2. Enterprise Storage in 2026
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24496270-1682D4.svg)](https://doi.org/10.5281/zenodo.24496270)
-· [PDF](./papers/Enterprise_Storage_2026_Multivocal_Review.pdf)
+· [PDF](./docs/papers/Enterprise_Storage_2026_Multivocal_Review.pdf)
 · [Zenodo record](https://zenodo.org/records/24496270)
 
 <details>
@@ -125,7 +125,7 @@ The scope covers primary block storage, scale-out file/NAS, object storage, soft
 
 ```text
 PREPRINT/
-├── papers/                                          # Manuscript PDFs
+├── docs/                                            # GitHub Pages site (landing pages + PDFs)
 │   ├── Accuracy-Efficiency_Trade-off_ResNet18_MobileNetV4_Malimg.pdf
 │   └── Enterprise_Storage_2026_Multivocal_Review.pdf
 ├── .zenodo.json                                     # Zenodo metadata
